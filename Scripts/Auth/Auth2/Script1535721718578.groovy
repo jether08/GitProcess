@@ -21,3 +21,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.delay(0)
 
+WebUI.acceptAlert()
+
